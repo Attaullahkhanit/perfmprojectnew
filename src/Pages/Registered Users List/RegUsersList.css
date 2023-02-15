@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.regUL-title{
+    display: flex;
+    justify-content: space-between;
+    justify-items: baseline;
+}
+.regUL-title .btn{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.regUL-title h6{
+    font-weight: 600;
+    padding-left: 30px;
+}
+.tablecontainer{
+    padding: 0 20px 0 20px;
+}

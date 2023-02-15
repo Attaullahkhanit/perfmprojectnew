@@ -1,0 +1,9 @@
+
+.usablebtn{
+    background-color: lightslategray;
+    color: white;
+}
+.usablebtn :hover{
+    color: white;
+    background-color: brown;
+}

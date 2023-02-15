@@ -1,0 +1,35 @@
+
+*{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.heading-1{
+    background-color:antiquewhite;
+    text-align: center;
+    padding: 10px 0 10px 0;
+    color: black;
+}
+.form{
+/*     
+    margin-top: 50px; */
+    
+
+}
+.card{
+  
+    justify-content: center;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.form-item1{
+    
+}
+:where(.css-dev-only-do-not-override-1i536d8).ant-row {
+    display: flex;
+    flex-flow: row wrap;
+    min-width: 0;
+    display: flex;
+    align-items: baseline;
+}
